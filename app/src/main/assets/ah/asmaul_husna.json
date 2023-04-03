@@ -1,0 +1,697 @@
+{
+  "ah": [{
+    "number": 1,
+    "latin": "Ar-Rahman",
+    "arab": "الرَّحْمَنُ",
+    "indo": "Maha Pengasih",
+    "def": "Allah Subhanahu wa Ta’ala mempunyai kasih sayang yang sangat luas, meliputi seluruh makhluk-Nya. Allah mengasihi seluruh makhluk-Nya dengan memberikan berbagai kenikmatan.",
+    "ref": "Surat Al Fatihah ayat 1 dan 3, Thaha ayat 5, Al Mulk ayat 29, Ar rahman ayat 1, dan Al Isra’ ayat 110."
+  }, {
+    "number": 2,
+    "latin": "Ar-Rahiim",
+    "arab": "الرَّحِيمُ",
+    "indo": "Maha Penyayang",
+    "def": "Allah Subhanahu wa Ta’ala Maha Penyayang kepada hamba-Nya yang beriman.",
+    "ref": "Surat Al Fatihah ayat 1 dan 3, Al Baqarah ayat 163, Fushilat ayat 2, dan Al Hasyr ayat 22."
+  }, {
+    "number": 3,
+    "latin": "Al-Malik",
+    "arab": "الْمَلِكُ",
+    "indo": "Maha Merajai / Memerintah",
+    "def": "Allah berkuasa atas segala sesuatu baik dalam hal memerintah maupun melarang. Arti lain Al Malik adalah memiliki sesuatu. Segala sesuatu butuh kepada Allah sedangkan Allah tidak membutuhkan segala sesuatu.",
+    "ref": "Surat Al Hasyr ayat 23, Al Mukminun ayat 116, dan Ali Imran ayat 26."
+  }, {
+    "number": 4,
+    "latin": "Al-Quddus",
+    "arab": "الْقُدُّوسُ",
+    "indo": "Maha Suci",
+    "def": "Allah Mahasuci dari segala sesuatu yang bersifat kurang dan cacat. Asmaul husna ini memiliki def kesempurnaan, terpuji dengan segala kebaikan dan keutamaan.",
+    "ref": "Surat Al Hasyr ayat 23 dan Al Jumuah ayat 1."
+  }, {
+    "number": 5,
+    "latin": "As-Salaam",
+    "arab": "السَّلاَمُ",
+    "indo": "Maha Memberi Kesejahteraan",
+    "def": "Allah terbebas dari kekurangan, cacat dan segala sesuatu yang tidak sesuai dengan keagungan dan kesempurnaan-Nya. Allah juga menyelamatkan dan memberikan kesejahteraan kepada hamba-Nya.",
+    "ref": "Surat Al Hasyr ayat 23"
+  }, {
+    "number": 6,
+    "latin": "Al-Mu 'min",
+    "arab": "الْمُؤْمِنُ",
+    "indo": "Maha Memberi Keamanan",
+    "def": "Allah adalah Dzat yang menjadi tempat pelarian dan perlindungan bagi orang yang merasa ketakutan sehingga mendapatkan keamanan.",
+    "ref": "Surat Al Hasyr ayat 23"
+  }, {
+    "number": 7,
+    "latin": "Al-Muhaimin",
+    "arab": "الْمُهَيْمِنُ",
+    "indo": "Maha Pemelihara",
+    "def": "Allah Maha Mengawasi dan Menyaksikan seluruh makhluk-Nya, berkuasa atas mereka dengan penuh perhatian dan kekuasaan, memberi mereka rezeki dan kehidupan.",
+    "ref": "Surat Al Hasyr ayat 23"
+  }, {
+    "number": 8,
+    "latin": "Al-'Aziiz",
+    "arab": "الْعَزِيزُ",
+    "indo": "Maha Perkasa",
+    "def": "Allah adalah Dzat yang Mahaperkasa, yang tidak bisa dikalahkan oleh sesuatupun, Mahakuat dan mengalahkan segala sesuatu.",
+    "ref": "Surat Al Hasyr ayat 23, Ali Imran ayat 62, Al Mulk ayat 2 dan Fathir ayat 10."
+  }, {
+    "number": 9,
+    "latin": "Al-Jabbar",
+    "arab": "الْجَبَّارُ",
+    "indo": "Maha Kuasa",
+    "def": "Allah berkuasa untuk memaksakan kehendak-Nya kepada hamba-Nya, berkuasa memerintah dan melarang sehingga makhluk hanya bisa sami’na wa atha’na. Nama Al Jabbar juga berdef kuat dan tahan sehingga tidak ada yang bisa berbuat buruk dan membahayakan-Nya.",
+    "ref": "Surat Al Hasyr ayat 23."
+  }, {
+    "number": 10,
+    "latin": "Al-Mutakabbir",
+    "arab": "الْمُتَكَبِّرُ",
+    "indo": "Maha Besar",
+    "def": "Allah adalah Dzat yang memiliki kesombongan dan kebesaran. Kesombongan adalah pakaian Allah yang tidak boleh dipakai oleh hamba-Nya.",
+    "ref": "Surat Al Hasyr ayat 23."
+  }, {
+    "number": 11,
+    "latin": "Al-Khaliq",
+    "arab": "الْخَالِقُ",
+    "indo": "Maha Pencipta",
+    "def": "Allah Maha Pencipta. Dialah yang menciptakan alam semesta dan seluruh makhluk-Nya. Baik malaikat, iblis, jin, manusia, hewan maupun tumbuhan, seluruhnya adalah ciptaan Allah.",
+    "ref": "Surat Al Hasyr ayat 4, Al Mukminun ayat 14, dan Fathir ayat 3."
+  }, {
+    "number": 12,
+    "latin": "Al-Baari '",
+    "arab": "الْبَارِئُ",
+    "indo": "Maha Pembuat",
+    "def": "Allah adalah Dzat yang membuat sesuatu dari ketiadaan. Dia menciptakan dan membentuk sesuai bentuk dan ukuran yang Dia kehendaki.",
+    "ref": "Surat Al Hasyr ayat 24 dan Al Baqarah ayat 54"
+  }, {
+    "number": 13,
+    "latin": "Al-Mushawwir",
+    "arab": "المصور",
+    "indo": "Maha Membentuk Rupa",
+    "def": "Allah menciptakan segala sesuatu dan membeda-bedakan mereka dengan bentuknya masing-masing sesuai kehendak-Nya.",
+    "ref": "Surat Al Hasyr ayat 24,  Al Infithar ayat 8, dan Ghafir ayat 64."
+  }, {
+    "number": 14,
+    "latin": "Al-Ghaffaar",
+    "arab": "الْغَفَّارُ",
+    "indo": "Maha Pengampun",
+    "def": "Al Ghaffar berasal dari kata al ghafru yang berarti menutupi. Allah senang menutupi dosa hamba-Nya dan mengabaikan kesalahan-kesalahan mereka.",
+    "ref": "Surat Az Zumar ayat 5 dan Shad ayat 66"
+  }, {
+    "number": 15,
+    "latin": "Al-Qahhaar",
+    "arab": "الْقَهَّارُ",
+    "indo": "Maha Memaksa",
+    "def": "Allah memiliki kekuasaan penuh dalam mengungguli dan memaksa orang yang kuat dan berkuasa. Semua yang Allah inginkan pada hamba-Nya pasti terjadi.",
+    "ref": "Surat Az Zumar ayat 4 dan Shad ayat 65"
+  }, {
+    "number": 16,
+    "latin": "Al-Wahhaab",
+    "arab": "الْوَهَّابُ",
+    "indo": "Maha Pemberi Karunia",
+    "def": "Allah maha pemberi karunia kepada hamba-Nya. Tanpa diminta oleh makhluk dan tanpa meminta imbalan kepada makhluk.",
+    "ref": "Surat Shad ayat 35, Shad ayat 9 dan Ali Imran ayat 8"
+  }, {
+    "number": 17,
+    "latin": "Ar-Razzaaq",
+    "arab": "الرَّزَّاقُ",
+    "indo": "Maha Pemberi Rezeki",
+    "def": "Allah Maha Pemberi rezeki dan menyampaikannya kepada hamba-hambaNya.",
+    "ref": "Surat Adz Dzariyat ayat 58 dan Hud ayat 6."
+  }, {
+    "number": 18,
+    "latin": "Al-Fattaah",
+    "arab": "الفتاح",
+    "indo": "Maha Pembuka Rahmat",
+    "def": "Allah membuka rezeki dan rahmat untuk hamba-hambaNya. Dia memudahkan jalan-jalan yang sulit baik dalam urusan dunia maupun akhirat.   Al Fattah juga berdef menghakimi dan memutuskan. Dia yang memisahkan halal dan haram serta menjelaskan yang benar dan yang salah sehingga yang benar akan menang dan yang salah akan kalah.",
+    "ref": "Surat Saba’ ayat 26, Fathir ayat 2, Al A’raf ayat 96, dan Al A’raf ayat 89"
+  }, {
+    "number": 19,
+    "latin": "Al-'Aliim",
+    "arab": "الْعَلِيمُ",
+    "indo": "Maha Mengetahui",
+    "def": "Allah maha mengetahui segala sesuatu, baik sebelum atau sesudah sesuatu itu ada. Tiada sesuatu pun di langit dan di bumi yang tidak Allah ketahui.",
+    "ref": "Surat Saba’ ayat 26, Al Hijr ayat 86, dan Al Baqarah ayat 32."
+  }, {
+    "number": 20,
+    "latin": "Al-Qaabidh",
+    "arab": "الْقَابِضُ",
+    "indo": "Maha Menyempitkan(makhluknya)",
+    "def": "Al Qabidh artinya menahan dan tidak memberi rezeki atau sejenisnya kepada hamba-Nya. Juga mengandung def mencabut nyawa ketika seorang hamba meninggal dunia.",
+    "ref": "Surat Al Baqarah ayat 245 dan Asy Syura ayat 27."
+  }, {
+    "number": 21,
+    "latin": "Al-Baasith",
+    "arab": "الْبَاسِطُ",
+    "indo": "Maha Melapangkan(makhluknya)",
+    "def": "Al Basith artinya meluaskan dan melapangkan rezeki kepada hamba-Nya. Juga mengandung def membentangkan nyawa kepada hamba sehingga mendapatkan kehidupan.",
+    "ref": "Surat Al Baqarah ayat 245 dan Asy Syura ayat 27."
+  }, {
+    "number": 22,
+    "latin": "Al-Khaafidh",
+    "arab": "الْخَافِضُ",
+    "indo": "Maha Merendahkan(makhluknya)",
+    "def": "Al Khafidh artinya menurunkan kesombongan penguasa sehingga mereka menjadi rendah dan hina. Juga berdef merendahkan orang-orang kafir dengan memasukkan mereka ke dalam neraka.",
+    "ref": "Surat Al Waqi’ah ayat 3"
+  }, {
+    "number": 23,
+    "latin": "Ar-Raafi '",
+    "arab": "الرَّافِعُ",
+    "indo": "Maha Meninggikan(makhluknya)",
+    "def": "Allah meninggikan wali-Nya dan menolong mereka menghadapi musuh. Juga berdef meninggikan derajat orang-orang yang dikehendaki-Nya sebelum mereka ditinggikan di surga-Nya.",
+    "ref": "Surat Al Mujadalah ayat 11, Al Waqiah ayat 3"
+  }, {
+    "number": 24,
+    "latin": "Al-Mu'izz",
+    "arab": "الْمُعِزُّ",
+    "indo": "Maha Memuliakan(makhluknya)",
+    "def": "Allah Maha Memuliakan sehingga hamba tersebut menjadi benar-benar mulia. Tentu mereka adalah orang-orang yang beriman kepada-Nya.",
+    "ref": "Surat Ali Imran ayat 26, Fathir ayat 10."
+  }, {
+    "number": 25,
+    "latin": "Al-Mudzil",
+    "arab": "الْمُذِلُّ",
+    "indo": "Maha Menghinakan(makhluknya)",
+    "def": "Allah Maha Menghinakan sehingga orang yang dihinakan tersebut menjadi benar-benar hina. Tentu mereka adalah orang-orang kafir dan orang-orang yang memusuhi-Nya.",
+    "ref": "Surat Ali Imran ayat 26"
+  }, {
+    "number": 26,
+    "latin": "Al-Samii '",
+    "arab": "السَّمِيعُ",
+    "indo": "Maha Mendengar",
+    "def": "Allah Maha Mendengar segala sesuatu, baik yang keras maupun yang pelan, baik yang terang-terangan maupun yang rahasia. Allah Maha Mendengar segala doa hamba-Nya dan mengabulkan doa yang sungguh-sungguh dan penuh harap kepada-Nya.",
+    "ref": "Surat Al Baqarah ayat 127"
+  }, {
+    "number": 27,
+    "latin": "Al-Bashiir",
+    "arab": "الْبَصِيرُ",
+    "indo": "Maha Melihat",
+    "def": "Allah Maha Melihat dan Menyaksikan segala sesuatu, baik yang tampak maupun yang tersembunyi. Tiada sesuatu pun baik dalam batu di perut bumi maupun di luar angkasa melainkan Allah melihatnya. Demikian pula seluruh amal perbuatan hamba dan isi hatinya.",
+    "ref": "Surat Asy Syura ayat 11, Al Isra ayat 1, Al Baqarah ayat 127."
+  }, {
+    "number": 28,
+    "latin": "Al-Hakam",
+    "arab": "الْحَكَمُ",
+    "indo": "Maha Menetapkan",
+    "def": "Al Hakam artinya Allah menjadikan sesuatu rapi dan kuat. Nama Al Hakam juga bisa berarti hakim yakni Allah memutuskan sesuatu di antara para hambaNya baik di dunia maupun di akhirat. Al Hakam juga berarti Allah yang menetapkan hukum dan tidak ada sesuatu pun yang bisa menyanggahnya.",
+    "ref": "Surat Al An’am ayat 114, Al Qashash ayat 70"
+  }, {
+    "number": 29,
+    "latin": "Al-'Adl",
+    "arab": "الْعَدْلُ",
+    "indo": "Maha Adil",
+    "def": "Allah Maha Adil, hanya melakukan sesuatu yang pantas dan sudah seharusnya. Allah menghukumi dengan kebenaran dan tidak pernah berlaku zalim pada hamba-Nya.",
+    "ref": "Surat An Nahl ayat 90"
+  }, {
+    "number": 30,
+    "latin": "Al-Lathiif",
+    "arab": "اللَّطِيفُ",
+    "indo": "Maha Lembut",
+    "def": "Allah sangat baik dan lembut perbuatan-Nya. Dia sangat lembut kepada hamba-Nya tanpa mereka ketahui serta meyediakan segala kebutuhan hamba meskipun mereka tidak menyadarinya.",
+    "ref": "Surat Yusuf ayat 100, Al An’am ayat 103"
+  }, {
+    "number": 31,
+    "latin": "Al-Khabiir",
+    "arab": "الْخَبِيرُ",
+    "indo": "Maha Mengetahui Rahasia",
+    "def": "Allah maha mengetahui hal yang terjadi pada masa lalu dan masa yang akan datang. Mengetahui hakikat sesuatu sebelum terjadinya dan hakikat yang tersimpan dalam segala hal.",
+    "ref": "Surat Al An’am ayat 18 dan 103"
+  }, {
+    "number": 32,
+    "latin": "Al-Haliim",
+    "arab": "الحليم",
+    "indo": "Maha Penyantun",
+    "def": "Al Halim artinya tidak terburu-buru membalas meskipun berkuasa melakukannya. Nama Al Halim juga berarti Allah tidak menahan rezeki atau buru-buru mengazab karena kemaksiatan dan kezaliman makhluk-Nya meskipun Dia berkuasa melakukan itu semua.",
+    "ref": "Surat Al Baqarah ayat 235, Al Isra ayat 44"
+  }, {
+    "number": 33,
+    "latin": "Al-'Azhiim",
+    "arab": "الْعَظِيمُ",
+    "indo": "Maha Agung",
+    "def": "Al ‘Adhim artinya Allah Maha Agung. Tiada yang melebihi keagungan Allah baik dalam Dzat, wujud, ilmu, kekuasaan, pengaruh, kebijaksanaan maupun perintah-Nya.",
+    "ref": "Ayat kursi (Surat Al Baqarah ayat 255), Al Waqiah ayat 96"
+  }, {
+    "number": 34,
+    "latin": "Al-Ghafuur",
+    "arab": "الْغَفُورُ",
+    "indo": "Maha Pengampun",
+    "def": "Al Ghafur berasal dari kata Al Ghafru yang berarti menutupi. Menunjukkan Allah sangat sering mengampuni dan menutupi dosa hambaNya.",
+    "ref": "Surat Al Kahfi ayat 58, Al Hijr ayat 49, dan Thaha ayat 82"
+  }, {
+    "number": 35,
+    "latin": "As-Syakuur",
+    "arab": "الشَّكُورُ",
+    "indo": "Maha Pembalas Budi(Menghargai)",
+    "def": "Allah Maha Menghargai dan Membalas kebaikan. Allah memuji hamba-hamba pilihan-Nya dan membalas setiap amal sekecil apa pun amal itu.",
+    "ref": "Surat Asy Syura ayat 23 dan Fathir ayat 34"
+  }, {
+    "number": 36,
+    "latin": "Al-'Aliy",
+    "arab": "الْعَلِىُّ",
+    "indo": "Maha Tinggi",
+    "def": "Nama Al Ali menunjukkan bahwa Allah memiliki derajat tertinggi. Ketinggian Dzat-Nya tidak terjangkau oleh kemampuan manusia.",
+    "ref": "Surat Al Hajj ayat 62 dan Ghafir ayat 12"
+  }, {
+    "number": 37,
+    "latin": "Al-Kabiir",
+    "arab": "الْكَبِيرُ",
+    "indo": "Maha Besar",
+    "def": "Nama Al Kabir menunjukkan bahwa Allah Mahatinggi dan Mahabesar dalam Dzat, sifat dan perbuatan-Nya. Sehingga sama sekali tidak menyerupai makhluk-Nya.",
+    "ref": "Surat An Nisa ayat 34 dan Luqman ayat 30"
+  }, {
+    "number": 38,
+    "latin": "Al-Hafizh",
+    "arab": "الْحَفِيظُ",
+    "indo": "Maha Memelihara",
+    "def": "Allah sangat kuat menjaga yang ingin Dia jaga. Allah menjaga, melindungi dan memelihara sesuatu yang Dia kehendaki.",
+    "ref": "Surat Saba’ ayat 21, Yusuf ayat 64, dan Al Hijr ayat 9"
+  }, {
+    "number": 39,
+    "latin": "Al-Muqiit",
+    "arab": "الْمُقِيتُ",
+    "indo": "Maha Pemberi Kecukupan",
+    "def": "Allah maha memberi kecukupan dan menjamin rezeki hamba-Nya",
+    "ref": "Surat An Nisa ayat 85"
+  }, {
+    "number": 40,
+    "latin": "Al-Hasiib",
+    "arab": "الْحَسِيبُ",
+    "indo": "Maha Membuat Perhitungan",
+    "def": "Allah akan mencukupi segala kebutuhan hamba-Nya. Juga menunjukkan Allah akan menghitung amal perbuatan manusia.",
+    "ref": "Surat An Nisa ayat 6 dan An Nisa ayat 86"
+  }, {
+    "number": 41,
+    "latin": "Al-Jaliil",
+    "arab": "الْجَلِيلُ",
+    "indo": "Maha Mulia",
+    "def": "Allah Mahamulia dalam Dzat dan sifat-Nya. Sempurna dalam Dzat dan sifat-Nya.",
+    "ref": "Surat Ar Rahmah ayat 78 dan Al A’raf ayat 143"
+  }, {
+    "number": 42,
+    "latin": "Al-Kariim",
+    "arab": "الكريم",
+    "indo": "Maha Mulia",
+    "def": "Al Karim artinya banyak memberi dan berbuat kebajikan tanpa diminta. Nama Al Karim juga berarti memberi tanpa perhitungan, baik yang berhak maupun tidak berhak.",
+    "ref": "Surat An Naml ayat 40 dan Al Infithar ayat 6"
+  }, {
+    "number": 43,
+    "latin": "Ar-Raqiib",
+    "arab": "الرَّقِيبُ",
+    "indo": "Maha Mengawasi",
+    "def": "Allah Maha Mengawasi, tidak pernah lalai. Selalu ada dan tak pernah hilang. Selalu mengetahui tentang ciptaan-Nya.",
+    "ref": "Surat An Nisa’ ayat 1 dan Al Ahzab ayat 52"
+  }, {
+    "number": 44,
+    "latin": "Al-Mujiib",
+    "arab": "الْمُجِيبُ",
+    "indo": "Maha Mengabulkan",
+    "def": "Allah Maha Mengabulkan doa. Allah mengabulkan doa dan permohonan hambaNya. Tak ada doa yang Dia abaikan.",
+    "ref": "Surat Hud ayat 61 dan An Naml ayat 62"
+  }, {
+    "number": 45,
+    "latin": "Al-Waasi '",
+    "arab": "الْوَاسِعُ",
+    "indo": "Maha Luas",
+    "def": "Al Wasi’ artinya maha luas yang kekuasaa-Nya tidak berbatas. Demikian pula kekuatan, kemampuan, dan kerajaan-Nya tidak terbatas.",
+    "ref": "Surat Al Baqarah ayat 147 dan Al An’am ayat 80"
+  }, {
+    "number": 46,
+    "latin": "Al-Hakiim",
+    "arab": "الْحَكِيمُ",
+    "indo": "Maha Maka Bijaksana",
+    "def": "Allah Mahabijaksana, sangat tepat dalam mengukur dan sangat baik dalam mengatur. Allah bersih dari segala perbuatan yang tidak sesuai dengan keagungan dan kesempurnaan-Nya.",
+    "ref": "Surat Al Baqarah ayat 32 dan Al An’am ayat 18"
+  }, {
+    "number": 47,
+    "latin": "Al-Waduud",
+    "arab": "الْوَدُودُ",
+    "indo": "Maha Mengasihi",
+    "def": "Allah mencintai hamba-Nya yang taat dengan cara memberi mereka nikmat dan kasih sayang.",
+    "ref": "Surat Hud ayat 90 dan Al Buruj ayat 14"
+  }, {
+    "number": 48,
+    "latin": "Al-Majiid",
+    "arab": "الْمَجِيدُ",
+    "indo": "Maha Mulia",
+    "def": "Allah sangat luas kemuliaan, ketinggian dan kedudukan-Nya.",
+    "ref": "Surat Buruj ayat 15 dan Hud ayat 73"
+  }, {
+    "number": 49,
+    "latin": "Al-Baa'its",
+    "arab": "الْبَاعِثُ",
+    "indo": "Maha Membangkitkan",
+    "def": "Allah membangkitkan manusia setelah mereka mati untuk dihisab dan diberi balasan di akhirat",
+    "ref": "Surat An Nahl ayat 36 dan Al An’am ayat 60"
+  }, {
+    "number": 50,
+    "latin": "As-Syahiid",
+    "arab": "الشَّهِيدُ",
+    "indo": "Maha Menyaksikan",
+    "def": "Allah mengawasi hamba-Nya, melihat perbuatan mereka, mendengar segala yang diucapkan. Tidak ada yang tersembunyi dari-Nya.",
+    "ref": "Surat An Nisa’ ayat 79 dan Al Maidah ayat 117"
+  }, {
+    "number": 51,
+    "latin": "Al-Haqq",
+    "arab": "الْحَقُّ",
+    "indo": "Maha Benar",
+    "def": "Allah mahabenar, keberadaan-Nya tidak bisa diingkari, harus diakui. Ia juga berarti Allah ada tanpa permulaan hingga selamanya.",
+    "ref": "Surat Al Hajj ayat 62, Yunus 32"
+  }, {
+    "number": 52,
+    "latin": "Al-Wakiil",
+    "arab": "الْوَكِيلُ",
+    "indo": "Maha Memelihara",
+    "def": "Allah maha memelihara. Dialah yang berkuasa sekehendakNya karena kesempurnaan ilmu dan kekuasaan-Nya.",
+    "ref": "Surat An-Nisa ayat 81, Al An’am 102"
+  }, {
+    "number": 53,
+    "latin": "Al-Qawiyyu",
+    "arab": "الْقَوِىُّ",
+    "indo": "Maha Kuat",
+    "def": "Allah mahakuat. Kekuatan dan kekuasaan-Nya sempurna sehingga tidak ada sesuatupun yang tidak bisa didapatkanNya.",
+    "ref": "Surat Al Hadid ayat 25, Al Ahzab ayat 25"
+  }, {
+    "number": 54,
+    "latin": "Al-Matiin",
+    "arab": "الْمَتِينُ",
+    "indo": "Maha Kokoh",
+    "def": "Allah memiliki kekuatan yang besar, yang tidak akan melemah karena apa pun.",
+    "ref": "Surat Adz Dzariyat ayat 58, Qaf ayat 38"
+  }, {
+    "number": 55,
+    "latin": "Al-Waliyy",
+    "arab": "الْوَلِىُّ",
+    "indo": "Maha Melindungi",
+    "def": "Allah melakukan seluruh urusan makhluk dan menjamin menyelesaikan semuanya. Al Wali juga berarti Allah melindungi hamba-hambaNya yang taat.",
+    "ref": "Surat Al Baqarah ayat 257, Yunus ayat 101"
+  }, {
+    "number": 56,
+    "latin": "Al-Hamiid",
+    "arab": "الْحَمِيدُ",
+    "indo": "Maha Terpuji",
+    "def": "Allah berhak mendapatkan pujian dan pujaan karena memiliki Dzat yang sangat agung, sifat yang sempurna dan kekuasaan tiada tara.",
+    "ref": "Surat Al Baqarah ayat 267, Fathir ayat 15"
+  }, {
+    "number": 57,
+    "latin": "Al-Muhshii",
+    "arab": "الْمُحْصِى",
+    "indo": "Maha Mengalkulasi(Menghitung Segala Sesuatu)",
+    "def": "Allah mengetahui segala sesuatu dengan segala gerak dan diamnya. Ia juga berarti Allah menghitung dan menulis perbuatan dan perkataan hamba-Nya.",
+    "ref": "Surat Al Jin ayat 28, Yasin ayat 12"
+  }, {
+    "number": 58,
+    "latin": "Al-Mubdi '",
+    "arab": "الْمُبْدِئُ",
+    "indo": "Maha Memulai",
+    "def": "Allah Maha Memulai. Yakni memulai menciptakan makhluk dari yang sebelumnya tidak ada menjadi ada.",
+    "ref": "Surat Al Buruj ayat 13"
+  }, {
+    "number": 59,
+    "latin": "Al-Mu'iid",
+    "arab": "الْمُعِيدُ",
+    "indo": "Maha Mengembalikan Kehidupan",
+    "def": "Allah Maha Mengembalikan kehidupan. Yakni menghidupkan kembali makhluk yang setelah mereka mati dan binasa.",
+    "ref": "Surat Al Buruj ayat 13"
+  }, {
+    "number": 60,
+    "latin": "Al-Muhyii",
+    "arab": "الْمُحْيِى",
+    "indo": "Maha Menghidupkan",
+    "def": "Allah Maha Menghidupkan. Dia memberikan kehidupan kepada makhluk-Nya dengan meniupkan ruh.",
+    "ref": "Surat Al Baqarah ayat 258"
+  }, {
+    "number": 61,
+    "latin": "Al-Mumiitu",
+    "arab": "الْمُمِيتُ",
+    "indo": "Maha Mematikan",
+    "def": "Allah Maha Mematikan. Dia membuat makhluk mati setelah hidup dengan mengambil ruhnya.",
+    "ref": "Surat Al Baqarah ayat 258"
+  }, {
+    "number": 62,
+    "latin": "Al-Hayyu",
+    "arab": "الْحَىُّ",
+    "indo": "Maha Hidup",
+    "def": "Allah Mahahidup. Allah memiliki kehidupan abadi, tidak berpermulaan dan senantiasa abadi",
+    "ref": "Surat Al Baqarah ayat 255"
+  }, {
+    "number": 63,
+    "latin": "Al-Qayyuum",
+    "arab": "الْقَيُّومُ",
+    "indo": "Maha Mandiri",
+    "def": "Allah Mahamandiri, terus menerus mengurus makhluk-Nya. Yakni sangat besar kepengurusan-Nya kepada makhluk-Nya.",
+    "ref": "Surat Al Baqarah ayat 255"
+  }, {
+    "number": 64,
+    "latin": "Al-Waajid",
+    "arab": "الْوَاجِدُ",
+    "indo": "Maha Penemu",
+    "def": "Allah maha mengetahui dan menemukan. Allah menemukan siapa saja yang Dia cari. Tidak ada sesuatupun yang bisa menghalang-halangi.",
+    "ref": "Surat Adh Dhuha ayat 7-8"
+  }, {
+    "number": 65,
+    "latin": "Al-Maajid",
+    "arab": "الْمَاجِدُ",
+    "indo": "Maha Mulia",
+    "def": "Allah memiliki kemuliaan dan keluasan yang sempurna. Nama ini mirip dengan Al Majiid.",
+    "ref": "HR. Tirmidzi"
+  }, {
+    "number": 66,
+    "latin": "Al-Wahiid",
+    "arab": "الْوَاحِدُ",
+    "indo": "Maha Tunggal",
+    "def": "Allah maha tunggal. Hanya satu, tiada duanya dan tidak ada yang menyerupai-Nya.",
+    "ref": "Surat Al Baqarah ayat 163"
+  }, {
+    "number": 67,
+    "latin": "Al-Ahad",
+    "arab": "الْأَحَدُ",
+    "indo": "Maha Esa",
+    "def": "Allah Maha Esa, tiada sekutu bagi-Nya",
+    "ref": "Surat Al Ikhlas ayat 1"
+  }, {
+    "number": 68,
+    "latin": "As-Shamad",
+    "arab": "الصَّمَدُ",
+    "indo": "Maha Dibutuhkan, Tempat Meminta",
+    "def": "Allah Maha dibutuhkan. Dia dituju ketika makhluk membutuhkan sesuatu. Segala sesuatu butuh kepada-Nya sedangkan Dia tidak butuh sesuatu apa pun.",
+    "ref": "Surat Al Ikhlas ayat 2"
+  }, {
+    "number": 69,
+    "latin": "Al-Qaadir",
+    "arab": "االْقَادِرُ",
+    "indo": "Maha Menentukan, Maha Menyeimbangkan",
+    "def": "Allah Maha berkuasa. Dia memiliki kekuasaan penuh, tiada yang bisa menandingi dan mengalahkan-Nya.",
+    "ref": "Surat Fathir ayat 44"
+  }, {
+    "number": 70,
+    "latin": "Al-Muqtadir",
+    "arab": "الْمُقْتَدِرُ",
+    "indo": "Maha Berkuasa",
+    "def": "Al Muqtadir adalah bentuk lain dari Al Qadir. Kekuasaan Allah tidak berpermulaan dan tidak akan berakhir.",
+    "ref": "Surat Al Kahfi ayat 45"
+  }, {
+    "number": 71,
+    "latin": "Al-Muqaddim",
+    "arab": "الْمُقَدِّمُ",
+    "indo": "Maha Mendahulukan",
+    "def": "Allah mendahulukan siapa pun yang Dia kehendaki. Sehingga segala sesuatu tepat di numbernya. Termasuk mendahulukan satu kejadian atau perbuatan dari yang lainnya.",
+    "ref": "Surat Qaf ayat 28"
+  }, {
+    "number": 72,
+    "latin": "Al-Mu 'akkhir",
+    "arab": "الْمُؤَخِّرُ",
+    "indo": "Maha Mengakhirkan",
+    "def": "Allah mengakhirkan siapa pun yang Dia kehendaki. Sehingga segala sesuatu tepat di numbernya. Termasuk mengakhirkan satu kejadian atau perbuatan dari yang lainnya.",
+    "ref": "Surat Hud ayat 104"
+  }, {
+    "number": 73,
+    "latin": "Al-Awwal",
+    "arab": "الأَوَّلُ",
+    "indo": "Maha Awal",
+    "def": "Dia ada tanpa didahului oleh sesuatu, tidak ada sesuatupun yang lebih dulu ada dari-Nya.",
+    "ref": "Surat Al Hadid ayat 3"
+  }, {
+    "number": 74,
+    "latin": "Al-Aakhir",
+    "arab": "الآخِرُ",
+    "indo": "Maha Akhir",
+    "def": "Allah Mahaakhir. Dia kekal abadi selamanya, tidak ada akhirnya.",
+    "ref": "Surat Al Hadid ayat 3"
+  }, {
+    "number": 75,
+    "latin": "Az-Zhaahir",
+    "arab": "الظَّاهِرُ",
+    "indo": "Maha Nyata",
+    "def": "Allah Mahanyata. Tanda kekuasaan dan kebesaran-Nya demikian nyata terpampang di alam semesta.",
+    "ref": "Surat Al Hadid ayat 3"
+  }, {
+    "number": 76,
+    "latin": "Al-Baathin",
+    "arab": "الْبَاطِنُ",
+    "indo": "Maha Ghaib",
+    "def": "Allah Mahagaaib. Dia tersembunyi dari penglihatan makhluk, tidak ada penglihatan yang bisa mencapai-Nya.",
+    "ref": "Surat Al Hadid ayat 3"
+  }, {
+    "number": 77,
+    "latin": "Al-Waali",
+    "arab": "الْوَالِى",
+    "indo": "Maha Memerintah",
+    "def": "Allah memiliki segala sesuatu dan berkuasa atas mereka termasuk memerintahkan apa saja. Apa yang diperintahkanNya harus dilakukan dan hukumNya harus ditegakkan.",
+    "ref": "Surat Ar Ra’du ayat 11"
+  }, {
+    "number": 78,
+    "latin": "Al-Muta'aalii",
+    "arab": "الْمُتَعَالِى",
+    "indo": "Maha Tinggi",
+    "def": "Allah Mahatinggi. Dia paling sempurna dalam ketinggian dan terbeas dari kekurangan.",
+    "ref": "Surat Ar Ra’du ayat 9"
+  }, {
+    "number": 79,
+    "latin": "Al-Barru",
+    "arab": "الْبَرُّ",
+    "indo": "Maha Penderma(Maha Pemberi Kebajikan)",
+    "def": "Allah selalu sayang dan melimpahkan kebaikan kepada hamba-Nya. Tidak ada satu makhluk pun yang luput dari kebaikan Allah.",
+    "ref": "Surat Ath Thur ayat 28"
+  }, {
+    "number": 80,
+    "latin": "At-Tawwaab",
+    "arab": "التَّوَّابُ",
+    "indo": "Maha Penerima Tobat",
+    "def": "Allah maha pemberi taubat. Allah selalu menerima taubat hambaNya dan memaafkan kesalahan mereka.",
+    "ref": "Surat Al Baqarah ayat 160, At Taubah ayat 104"
+  }, {
+    "number": 81,
+    "latin": "Al-Muntaqim",
+    "arab": "الْمُنْتَقِمُ",
+    "indo": "Maha Pemberi Balasan",
+    "def": "Allah akan menyiksa orang-orang yang durhaka kepada-Nya. Al Muntaqim juga menunjukkan bahwa Allah menyiksa orang-orang kafir yang memusuhi Rasul-Nya.",
+    "ref": "Surat Ali Imran ayat 4"
+  }, {
+    "number": 82,
+    "latin": "Al-Afuww",
+    "arab": "الْعَفُوُّ",
+    "indo": "Maha Pemaaf",
+    "def": "Allah Maha Pemaaf. Dengan cara Dia menghapus catatan keburukan seorang hamba sehingga ia tidak dibalas dan disiksa.",
+    "ref": "Surat Al Hajj ayat 60"
+  }, {
+    "number": 83,
+    "latin": "Ar-Ra 'uuf",
+    "arab": "الرَّءُوفُ",
+    "indo": "Maha Pengasuh",
+    "def": "Allah sangat mengasihi hamba-Nya. Di dunia, ar Rauf mengasihi dengan memberi nikmat kepada seluruh ciptaan-Nya. Namun di akhirat, ar Rauf hanya mengasihi hamba-Nya yang beriman.",
+    "ref": "Surat Al Hasyr ayat 10"
+  }, {
+    "number": 84,
+    "latin": "Ma-ikul Mulk",
+    "arab": "مَالِكُ الْمُلْكِ",
+    "indo": "Penguasa Alam Semesta",
+    "def": "Allah Penguasa alam semesta. Kekuasaan-Nya meliputi langit dan bumi, sehingga seluruh kehendak-Nya akan terlaksana di alam semesta.",
+    "ref": "Surat Ali Imran ayat 26"
+  }, {
+    "number": 85,
+    "latin": "Dz-l Jalaali Wal Ikraam",
+    "arab": "ذُو الْجَلاَلِ وَالإِكْرَامِ",
+    "indo": "Pemilik Kebesaran dan Kemuliaan",
+    "def": "Allah Pemilik Kebesaran dan Kemuliaan. Dia sempurna dalam Dzat, sifat, dan perbuatanNya serta selalu memberikan nikmat kepada hambaNya.",
+    "ref": "Surat Ar Rahman ayat 27"
+  }, {
+    "number": 86,
+    "latin": "Al-Muqsith",
+    "arab": "الْمُقْسِطُ",
+    "indo": "Maha Pemberi Keadilan",
+    "def": "Allah Maha Adil dalam menghakimi. Allah menolong hamba yang terzalimi hingga mendapatkan haknya kembali.",
+    "ref": "Surat Al Hujurat ayat 9"
+  }, {
+    "number": 87,
+    "latin": "Al-Jamii'",
+    "arab": "الْجَامِعُ",
+    "indo": "Maha Mengumpulkan",
+    "def": "Allah Maha mengumpulkan. Yakni mengumpulkan seluruh hamba-Nya di akhirat nanti. Mulai Nabi Adam hingga manusia terakhir.",
+    "ref": "Surat An Nisa’ ayat 87"
+  }, {
+    "number": 88,
+    "latin": "Al-Ghaniyy",
+    "arab": "الْغَنِىُّ",
+    "indo": "Maha Kaya",
+    "def": "Allah Maha Berkecukupan. Dia cukup dengan Dzat-Nya sehingga tidak membutuhkan yang lain.",
+    "ref": "Surat Fathir ayat 15"
+  }, {
+    "number": 89,
+    "latin": "Al-Mughnii",
+    "arab": "الْمُغْنِى",
+    "indo": "Maha Pemberi Kekayaan",
+    "def": "Allah Maha memberi kekayaan. Dia memberi kekayaan kepada siapapun yang Dia kehendaki dengan besaran tertentu sebagaimana kehendak-Nya.",
+    "ref": "Surat Adh Dhuha ayat 8"
+  }, {
+    "number": 90,
+    "latin": "Al-Maani",
+    "arab": "الْمَانِعُ",
+    "indo": "Maha Mencegah",
+    "def": "Allah Maha mencegah. Dia menahan dan mencegah bahaya dan musibah bagi orang-orang yang Dia kehendaki.",
+    "ref": ""
+  }, {
+    "number": 91,
+    "latin": "Ad-Dhaar",
+    "arab": "الضار",
+    "indo": "Maha Penimpa Kemudharatan",
+    "def": "Allah maha memberi derita bagi orang-orang yang durhaka kepada-Nya. Siapa pun tidak bisa mencegah penderitaan dan bahaya dari Allah.",
+    "ref": "Surat Al An’am ayat 42"
+  }, {
+    "number": 92,
+    "latin": "An-Nafii '",
+    "arab": "النَّافِعُ",
+    "indo": "Maha Memberi Manfaat",
+    "def": "Allah Maha Memberi manfaat bagi orang-orang yang Dia kehendaki. Siapapun yang Allah beri manfaat, tidak ada satu mahkluk pun yang bisa menghalanginya.",
+    "ref": "Surat Al A’raf ayat 188, Yunus ayat 10"
+  }, {
+    "number": 93,
+    "latin": "An-Nuur",
+    "arab": "النُّورُ",
+    "indo": "Maha Bercahaya(Menerangi, Memberi Cahaya)",
+    "def": "Allah Maha Bercahaya. Dia terang dengan sendiri-Nya dan menerangi makhlukNya. An Nur juga berarti Dia yang menampakkan sesuatu yang Dia kehendaki.",
+    "ref": "Surat An Nur ayat 35 dan 40"
+  }, {
+    "number": 94,
+    "latin": "Al-Haadii",
+    "arab": "الْهَادِى",
+    "indo": "Maha Pemberi Petunjuk",
+    "def": "Allah memberi petunjuk ke dalam hati orang-orang yang beriman. Sehingga mereka yang Dia kehendaki, mengetahui dan mengikuti kebenaran.",
+    "ref": "Surat Al Hajj ayat 54, Yunus ayat 25"
+  }, {
+    "number": 95,
+    "latin": "Al-Badii'",
+    "arab": "الْبَدِيعُ",
+    "indo": "Maha Pencipta Tiada Bandingannya",
+    "def": "Allah Maha Pencipta. Tidak ada sesuatupun yang bisa menyamai dan menandingiNya baik dalam Dzat, sifat maupun perbuatan.",
+    "ref": "Surat Al Baqarah ayat 117, Al An’am ayat 101"
+  }, {
+    "number": 96,
+    "latin": "Al-Baaqii",
+    "arab": "الْبَاقِى",
+    "indo": "Maha Kekal",
+    "def": "Allah Mahakekal. Dia tidak akan mati dan tidak akan binasa. Dia abadi selama-lamanya.",
+    "ref": "Surat Ar Rahman ayat 27"
+  }, {
+    "number": 97,
+    "latin": "Al-Waarits",
+    "arab": "الْوَارِثُ",
+    "indo": "Maha Pewaris",
+    "def": "Allah Maha Pewaris. Yakni segala sesuatu adalah ciptaan-Nya dan akan kembali kepada-Nya.",
+    "ref": "Surat Al Hijr ayat 23, Maryam ayat 40"
+  }, {
+    "number": 98,
+    "latin": "Ar-Rasyiid",
+    "arab": "الرَّشِيدُ",
+    "indo": "Maha Pandai",
+    "def": "Allah menunjukkan kepada hamba-hamba yang Dia kehendaki sehingga mereka beriman dan mengikuti petunjuk.",
+    "ref": "Surat Al Kahfi ayat 10"
+  }, {
+    "number": 99,
+    "latin": "As-Shabuur",
+    "arab": "الصَّبُورُ",
+    "indo": "Maha Sabar",
+    "def": "Allah tidak terpengaruh dengan terjadinya banyak kemaksiatan sehingga buru-buru menghukumnya. Allah justru menyimpan atau menahan hukumanNya untuk memberi kesempatan hambaNya bertaubat.",
+    "ref": "Surat An Nahl ayat 127, Al Kahfi ayat 28"
+  }]
+
+}

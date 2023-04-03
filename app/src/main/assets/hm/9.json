@@ -1,0 +1,25 @@
+{
+  "duas": [
+    {
+      "number": "1",
+      "arabicText": "أَشْهَدُ أَنْ لَا إِلَـهَ إِلاَّ اللّهُ وَحْدَهُ لَا شَريـكَ لَـهُ وَأَشْهَدُ أَنَّ مُحَمَّـداً عَبْـدُهُ وَرَسُـولُـهُ",
+      "readText": "asy-hadu 'an laa 'ilaaha 'illallaahu wahdahu laa syariika lahu wa 'asy-hadu 'anna muhammadan 'abduhu wa rosuuluhu.",
+      "indoText": "Aku bersaksi, bahwa tiada Tuhan yang haq kecuali Allah, Yang Maha Esa dan tiada sekutu bagi-Nya. Aku bersaksi, bahwa Muhammad adalah hamba dan utusan-Nya.",
+      "refs": "Muslim 1/209."
+    },
+    {
+      "number": "2",
+      "arabicText": "اَللَّهُـمَّ اجْعَلْنِـي مِنَ التَّـوَّابِينَ وَاجْعَـلْنِي مِنَ الْمُتَطَهِّـرِينَ",
+      "readText": "allaahummaj'alnii minat-tawwaabiina waj'alnii minal-mutatahhiriin.",
+      "indoText": "Ya Allah, jadikanlah aku termasuk orang-orang yang bertaubat dan jadikanlah aku termasuk orang-orang (yang senang) bersuci.",
+      "refs": "Referensi :\nAt-Tirmizi 1/78, Al-Albani, Sahih At-Tirmizi 1/18"
+    },
+    {
+      "number": "3",
+      "arabicText": "سُبْحـَانَكَ اللَّهُـمَّ وَبِحَمْدِكَ، أَشْهَـدُ أَنْ لاَ إِلَهَ إِلاَّ أَنْتَ، أَسْتَغْفِرُكَ وَأَتُوبُ إِلَـيْكَِ",
+      "readText": "subhaanaka allaahumma wa bihamdika, 'asy-hadu 'an laa 'ilaaha 'illaa 'anta, 'astaghfiruka wa 'atuubu 'ilayk.",
+      "indoText": "Maha Suci Engkau, ya Allah, aku memuji kepada-Mu. Aku bersaksi, bahwa tiada Tuhan yang haq di sembah selain Engkau, aku minta ampun dan bertaubat kepada-Mu.",
+      "refs": "Referensi :\nAn-Nasa'i, 'Amalul-Yawm wal-Laylah, p. 173, Al-Albani, 'Irwa'ul-Ghalil 1/135, 2/94."
+    }
+  ]
+}

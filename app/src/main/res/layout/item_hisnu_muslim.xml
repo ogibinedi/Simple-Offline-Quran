@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:weightSum="2"
+    android:padding="16dp"
+    android:gravity="center"
+    android:baselineAligned="false"
+    android:background="?attr/selectableItemBackground"
+    android:id="@+id/ll_action_item_hm">
+    <RelativeLayout
+        android:layout_width="45dp"
+        android:layout_height="45dp"
+        android:background="@drawable/frame_number">
+
+        <TextView
+            android:id="@+id/short_number"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="@string/verse_id"
+            android:textColor="@color/dark_green"
+            android:textSize="11sp"
+            android:textStyle="bold"
+            tools:ignore="TextContrastCheck" />
+    </RelativeLayout>
+    <LinearLayout
+        android:layout_weight="2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_title_hm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_title_hm"
+            android:textColor="@color/dark_green"
+            android:textSize="14sp"
+            tools:ignore="TextContrastCheck" />
+        <TextView
+            android:id="@+id/tv_category_hm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/label_category_hm"
+            android:textSize="12sp"/>
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/iv_hm"
+        android:layout_width="28dp"
+        android:layout_height="28dp"
+        android:src="@drawable/ic_next"
+        app:tint="@color/green"
+        android:contentDescription="@string/app_name"/>
+</LinearLayout>

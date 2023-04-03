@@ -1,0 +1,919 @@
+{
+  "tafsir_list": [
+    {
+      "number": 1,
+      "title_list": "SURAT AL-BAQARAH",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 2,
+      "title_list": "Keutamaan Surat Al-Baqarah",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 3,
+      "title_list": "Keutamaan Surat Al-Baqarah dan Ali Imran",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 4,
+      "title_list": "Keutamaan tujuh surat yang panjang-panjang",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 5,
+      "title_list": "Fasal Al-Baqoroh Turun di Madinah",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 6,
+      "title_list": "Al-Baqarah, ayat 1",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 7,
+      "title_list": "Al-Baqarah, ayat 2",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 8,
+      "title_list": "Al-Baqarah, ayat 3",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 9,
+      "title_list": "Al-Baqarah, ayat 4",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 10,
+      "title_list": "Al-Baqarah, ayat 5",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 11,
+      "title_list": "Al-Baqarah, ayat 6",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 12,
+      "title_list": "Al-Baqarah, ayat 7",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 13,
+      "title_list": "Al-Baqarah, ayat 8-9",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 14,
+      "title_list": "Al-Baqarah, ayat 10",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 15,
+      "title_list": "Al-Baqarah, ayat 11-12",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 16,
+      "title_list": "Al-Baqarah, ayat 13",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 17,
+      "title_list": "Al-Baqarah, ayat 14-15",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 18,
+      "title_list": "Al-Baqarah, ayat 16",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 19,
+      "title_list": "Al-Baqarah, ayat 17-18",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 20,
+      "title_list": "Al-Baqarah, ayat 19-20",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 21,
+      "title_list": "Al-Baqarah, ayat 21-22",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 22,
+      "title_list": "Al-Baqarah, ayat 23-24",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 23,
+      "title_list": "Al-Baqarah, ayat 25",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 24,
+      "title_list": "Al-Baqarah, ayat 28",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 25,
+      "title_list": "Al-Baqarah, ayat 29",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 26,
+      "title_list": "Al-Baqarah, ayat 30",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 27,
+      "title_list": "Al-Baqarah, ayat 31-33",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 28,
+      "title_list": "Al-Baqarah, ayat 34",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 29,
+      "title_list": "Al-Baqarah, ayat 35-36",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 30,
+      "title_list": "Al-Baqarah, ayat 37",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 31,
+      "title_list": "Al-Baqarah, ayat 38-39",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 32,
+      "title_list": "Al-Baqarah, ayat 40-41",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 33,
+      "title_list": "Al-Baqarah, ayat 42-43",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 34,
+      "title_list": "Al-Baqarah, ayat 44",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 35,
+      "title_list": "Al-Baqarah, ayat 45-46",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 36,
+      "title_list": "Al-Baqarah, ayat 47",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 37,
+      "title_list": "Al-Baqarah, ayat 48",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 38,
+      "title_list": "Al-Baqarah, ayat 49-50",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 39,
+      "title_list": "Al-Baqarah, ayat 51-53",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 40,
+      "title_list": "Al-Baqarah, ayat 54",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 41,
+      "title_list": "Al-Baqarah, ayat 55-56",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 42,
+      "title_list": "Al-Baqarah, ayat 57",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 43,
+      "title_list": "Al-Baqarah, ayat 58-59",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 44,
+      "title_list": "Al-Baqarah, ayat 60",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 45,
+      "title_list": "Al-Baqarah, ayat 61",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 46,
+      "title_list": "Al-Baqarah, lanjutan ayat 61",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 47,
+      "title_list": "Al-Baqarah, ayat 62",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 48,
+      "title_list": "Al-Baqarah, ayat 63-64",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 49,
+      "title_list": "Al-Baqarah, ayat 65-66",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 50,
+      "title_list": "Al-Baqarah, ayat 67",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 51,
+      "title_list": "Al-Baqarah, ayat 68-71",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 52,
+      "title_list": "Al-Baqarah, ayat 72-73",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 53,
+      "title_list": "Al-Baqarah, ayat 74",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 54,
+      "title_list": "Al-Baqarah, ayat 75-77",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 55,
+      "title_list": "Al-Baqarah, ayat 78-79",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 56,
+      "title_list": "Al-Baqarah, ayat 80",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 57,
+      "title_list": "Al-Baqarah, ayat 81-82",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 58,
+      "title_list": "Al-Baqarah, ayat 83",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 59,
+      "title_list": "Al-Baqarah, ayat 84-86",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 60,
+      "title_list": "Al-Baqarah, ayat 87",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 61,
+      "title_list": "Al-Baqarah, ayat 88",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 62,
+      "title_list": "Al-Baqarah, ayat 89",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 63,
+      "title_list": "Al-Baqarah, ayat 90",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 64,
+      "title_list": "Al-Baqarah, ayat 91-92",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 65,
+      "title_list": "Al-Baqarah, ayat 93",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 66,
+      "title_list": "Al-Baqarah, ayat 94-96",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 67,
+      "title_list": "Al-Baqarah, ayat 97-98",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 68,
+      "title_list": "Al-Baqarah, ayat 99-103",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 69,
+      "title_list": "Al-Baqarah, ayat 104-105",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 70,
+      "title_list": "Al-Baqarah, ayat 106-107",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 71,
+      "title_list": "Al-Baqarah, ayat 108",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 72,
+      "title_list": "Al-Baqarah, ayat 109-110",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 73,
+      "title_list": "Al-Baqarah, ayat 111-113",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 74,
+      "title_list": "Al-Baqarah, ayat 114",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 75,
+      "title_list": "Al-Baqarah, ayat 115",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 76,
+      "title_list": "Al-Baqarah, ayat 23-24",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 77,
+      "title_list": "Al-Baqarah, ayat 116-117",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 78,
+      "title_list": "Al-Baqarah, ayat 118",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 79,
+      "title_list": "Al-Baqarah, ayat 119",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 80,
+      "title_list": "Al-Baqarah, ayat 1120-121",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 81,
+      "title_list": "Al-Baqarah, ayat 122-123",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 82,
+      "title_list": "Al-Baqarah, ayat 124",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 83,
+      "title_list": "Al-Baqarah, ayat 125 (separo ayat)",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 84,
+      "title_list": "Al-Baqarah, lanjutan ayat 125-128",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 85,
+      "title_list": "Al-Baqarah, ayat 129",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 86,
+      "title_list": "Al-Baqarah, ayat 130-132",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 87,
+      "title_list": "Al-Baqarah, ayat 133-134",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 88,
+      "title_list": "Al-Baqarah, ayat 135",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 89,
+      "title_list": "Al-Baqarah, ayat 136",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 90,
+      "title_list": "Al-Baqarah, ayat 137",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 91,
+      "title_list": "Al-Baqarah, ayat 138",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 92,
+      "title_list": "Al-Baqarah, ayat 139-141",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 93,
+      "title_list": "Al-Baqarah, ayat 142-143",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 94,
+      "title_list": "Al-Baqarah, ayat 144",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 95,
+      "title_list": "Al-Baqarah, ayat 145",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 96,
+      "title_list": "Al-Baqarah, ayat 146-147",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 97,
+      "title_list": "Al-Baqarah, ayat 148",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 98,
+      "title_list": "Al-Baqarah, ayat 149-150",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 99,
+      "title_list": "Al-Baqarah, ayat 151-152",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 100,
+      "title_list": "Al-Baqarah, ayat 153-154",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 101,
+      "title_list": "Al-Baqarah, ayat 155-157",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 102,
+      "title_list": "Al-Baqarah, ayat 158",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 103,
+      "title_list": "Al-Baqarah, ayat 159-162",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 104,
+      "title_list": "Al-Baqarah, ayat 163",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 105,
+      "title_list": "Al-Baqarah, ayat 164",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 106,
+      "title_list": "Al-Baqarah, ayat 165-167",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 107,
+      "title_list": "Al-Baqarah, ayat 168-169",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 108,
+      "title_list": "Al-Baqarah, ayat 170-171",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 109,
+      "title_list": "Al-Baqarah, ayat 172-173",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 110,
+      "title_list": "Al-Baqarah, ayat 174-176",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 111,
+      "title_list": "Al-Baqarah, ayat 177",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 112,
+      "title_list": "Al-Baqarah, ayat 178-179",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 113,
+      "title_list": "Al-Baqarah, ayat 180-182",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 114,
+      "title_list": "Al-Baqarah, ayat 183-184",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 115,
+      "title_list": "Al-Baqarah, ayat 185",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 116,
+      "title_list": "Al-Baqarah, ayat 186",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 117,
+      "title_list": "Al-Baqarah, ayat 187",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 118,
+      "title_list": "Al-Baqarah, ayat 188",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 119,
+      "title_list": "Al-Baqarah, ayat 189",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 120,
+      "title_list": "Al-Baqarah, ayat 190-193",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 121,
+      "title_list": "Al-Baqarah, ayat 194",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 122,
+      "title_list": "Al-Baqarah, ayat 195",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 123,
+      "title_list": "Al-Baqarah, ayat 196",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 124,
+      "title_list": "Al-Baqarah, ayat 197",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 125,
+      "title_list": "Al-Baqarah, ayat 198",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 126,
+      "title_list": "Al-Baqarah, ayat 199",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 127,
+      "title_list": "Al-Baqarah, ayat 200-202",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 128,
+      "title_list": "Al-Baqarah, ayat 203",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 129,
+      "title_list": "Al-Baqarah, ayat 204-207",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 130,
+      "title_list": "Al-Baqarah, ayat 208-209",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 131,
+      "title_list": "Al-Baqarah, ayat 210",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 132,
+      "title_list": "Al-Baqarah, ayat 211-212",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 133,
+      "title_list": "Al-Baqarah, ayat 213",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 134,
+      "title_list": "Al-Baqarah, ayat 214",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 135,
+      "title_list": "Al-Baqarah, ayat 215",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 136,
+      "title_list": "Al-Baqarah, ayat 216",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 137,
+      "title_list": "Al-Baqarah, ayat 217-218",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 138,
+      "title_list": "Al-Baqarah, ayat 219-220",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 139,
+      "title_list": "Al-Baqarah, ayat 221",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 140,
+      "title_list": "Al-Baqarah, ayat 222-223",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 141,
+      "title_list": "Al-Baqarah, ayat 224-225",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 142,
+      "title_list": "Al-Baqarah, ayat 226-227",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 143,
+      "title_list": "Al-Baqarah, ayat 228",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 144,
+      "title_list": "Al-Baqarah, ayat 229-230",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 145,
+      "title_list": "Al-Baqarah, ayat 231",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 146,
+      "title_list": "Al-Baqarah, ayat 232",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 147,
+      "title_list": "Al-Baqarah, ayat 233",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 148,
+      "title_list": "Al-Baqarah, ayat 234",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 149,
+      "title_list": "Al-Baqarah, ayat 235",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 150,
+      "title_list": "Al-Baqarah, ayat 236",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 151,
+      "title_list": "Al-Baqarah, ayat 237",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 152,
+      "title_list": "Al-Baqarah, ayat 238-239",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 153,
+      "title_list": "Al-Baqarah, ayat 240-242",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 154,
+      "title_list": "Al-Baqarah, ayat 243-245",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 155,
+      "title_list": "Al-Baqarah, ayat 246",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 156,
+      "title_list": "Al-Baqarah, ayat 247",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 157,
+      "title_list": "Al-Baqarah, ayat 248",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 158,
+      "title_list": "Al-Baqarah, ayat 249",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 159,
+      "title_list": "Al-Baqarah, ayat 250-252",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 160,
+      "title_list": "Al-Baqarah, ayat 253",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 161,
+      "title_list": "Al-Baqarah, ayat 254",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 162,
+      "title_list": "Al-Baqarah, ayat 255",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 163,
+      "title_list": "Al-Baqarah, ayat 256",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 164,
+      "title_list": "Al-Baqarah, ayat 257",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 165,
+      "title_list": "Al-Baqarah, ayat 258",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 166,
+      "title_list": "Al-Baqarah, ayat 259",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 167,
+      "title_list": "Al-Baqarah, ayat 260",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 168,
+      "title_list": "Al-Baqarah, ayat 261",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 169,
+      "title_list": "Al-Baqarah, ayat 262-264",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 170,
+      "title_list": "Al-Baqarah, ayat 265",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 171,
+      "title_list": "Al-Baqarah, ayat 266",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 172,
+      "title_list": "Al-Baqarah, ayat 267-269",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 173,
+      "title_list": "Al-Baqarah, ayat 270-271",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 174,
+      "title_list": "Al-Baqarah, ayat 272-274",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 175,
+      "title_list": "Al-Baqarah, ayat 275",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 176,
+      "title_list": "Al-Baqarah, ayat 276-277",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 177,
+      "title_list": "Al-Baqarah, ayat 278-281",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 178,
+      "title_list": "Al-Baqarah, ayat 282",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 179,
+      "title_list": "Al-Baqarah, ayat 283",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 180,
+      "title_list": "Al-Baqarah, ayat 284",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 181,
+      "title_list": "Al-Baqarah, ayat 285-286",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 182,
+      "title_list": "Hadis-hadis yang menerangkan tentang keutamaan surat Al-Baqarah ayat 285 dan 286",
+      "sub_name": "al_baqarah"
+    },
+    {
+      "number": 183,
+      "title_list": "Tafsir ayat",
+      "sub_name": "al_baqarah"
+    }
+  ]
+}

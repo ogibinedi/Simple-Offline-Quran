@@ -1,0 +1,64 @@
+{
+  "bab": [
+    {
+      "number": 1,
+      "title": "Bab Air",
+      "link_to": "sub_bab",
+      "path": "thaharah"
+    },
+    {
+      "number": 2,
+      "title": "Bab Bejana",
+      "link_to": "sub_bab",
+      "path": "thaharah"
+    },
+    {
+      "number": 3,
+      "title": "Bab Najis dan Cara Menghilangkannya",
+      "link_to": "sub_bab",
+      "path": "thaharah"
+    },
+    {
+      "number": 4,
+      "title": "Bab Wudlu",
+      "link_to": "sub_bab",
+      "path": "thaharah"
+    },
+    {
+      "number": 5,
+      "title": "Bab Mengusap Dua Khuff (Sepatu)",
+      "link_to": "sub_bab",
+      "path": "thaharah"
+    },
+    {
+      "number": 6,
+      "title": "Bab yang Membatalkan Wudlu",
+      "link_to": "sub_bab",
+      "path": "thaharah"
+    },
+    {
+      "number": 7,
+      "title": "Bab Cara Buang Air",
+      "link_to": "sub_bab",
+      "path": "thaharah"
+    },
+    {
+      "number": 8,
+      "title": "Bab Mandi dan Hukum Junub",
+      "link_to": "sub_bab",
+      "path": "thaharah"
+    },
+    {
+      "number": 9,
+      "title": "Bab Tayamum",
+      "link_to": "sub_bab",
+      "path": "thaharah"
+    },
+    {
+      "number": 10,
+      "title": "Bab Haidl",
+      "link_to": "sub_bab",
+      "path": "thaharah"
+    }
+  ]
+}

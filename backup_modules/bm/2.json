@@ -1,0 +1,106 @@
+{
+  "bab": [
+    {
+      "number": 1,
+      "title": "Bab Waktu-waktu (Sholat)",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 2,
+      "title": "Bab Adzan",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 3,
+      "title": "Bab Syarat-syarat Shalat",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 4,
+      "title": "Bab Sutrah bagi Orang yang Shalat",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 5,
+      "title": "Bab Anjuran Kgusyu dalam Shalat",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 6,
+      "title": "Bab Mesjid",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 7,
+      "title": "Bab Sifat Shalat",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 8,
+      "title": "Bab Sujud Sahwi dan yang lainnya",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 9,
+      "title": "Bab Shalat Thathawwu",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 10,
+      "title": "Bab Shalat Berjama'ah dan Imam",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 11,
+      "title": "Bab Shalat Musafir dan yang Sakit",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 12,
+      "title": "Bab Shalat Jum'at",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 13,
+      "title": "Bab Shalat Khauf",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 14,
+      "title": "Bab Dua Hari Raya",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 15,
+      "title": "Bab Shalat Gerhana",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 16,
+      "title": "Bab Shalat Istisqa",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    },
+    {
+      "number": 17,
+      "title": "Bab Pakaian",
+      "link_to": "sub_bab",
+      "path": "shalat"
+    }
+  ]
+}

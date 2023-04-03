@@ -1,0 +1,66 @@
+{
+  "surahs": [{
+    "surah_number": 1,
+    "image_url": "R.drawable.sname_1",
+    "surah_text": "Al-Fatihah",
+    "indo_text": "Pembukaan",
+    "total_ayah": "7 Ayat",
+    "type": "Mekah"
+  },{
+    "surah_number": 78,
+    "image_url": "R.drawable.sname_78",
+    "surah_text": "An-Naba'",
+    "indo_text": "Berita Besar",
+    "total_ayah": "40 Ayat",
+    "type": "Mekah"
+  },{
+    "surah_number": 79,
+    "image_url": "R.drawable.sname_79",
+    "surah_text": "An-Nazi'at'",
+    "indo_text": "Malaikat-Malaikat yang Mencabut",
+    "total_ayah": "46 Ayat",
+    "type": "Mekah"
+  },{
+    "surah_number": 80,
+    "image_url": "R.drawable.sname_80",
+    "surah_text": "'Abasa",
+    "indo_text": "Ia Bermuka Masam",
+    "total_ayah": "42 Ayat",
+    "type": "Mekah"
+  },{
+    "surah_number": 81,
+    "image_url": "R.drawable.sname_81",
+    "surah_text": "At-Takwir",
+    "indo_text": "Menggulung",
+    "total_ayah": "29 Ayat",
+    "type": "Mekah"
+  },{
+    "surah_number": 82,
+    "image_url": "R.drawable.sname_82",
+    "surah_text": "Al-Infitar",
+    "indo_text": "Terbelah",
+    "total_ayah": "19 Ayat",
+    "type": "Mekah"
+  },{
+    "surah_number": 83,
+    "image_url": "R.drawable.sname_83",
+    "surah_text": "Al-Muthaffifiin",
+    "indo_text": "Orang-orang yang Curang",
+    "total_ayah": "36 Ayat",
+    "type": "Mekah"
+  },{
+    "surah_number": 84,
+    "image_url": "R.drawable.sname_84",
+    "surah_text": "Al-Insyiqaq",
+    "indo_text": "Terbelah",
+    "total_ayah": "25 Ayat",
+    "type": "Mekah"
+  },{
+    "surah_number": 85,
+    "image_url": "R.drawable.sname_85",
+    "surah_text": "Al-Buruj",
+    "indo_text": "Gugusan Bintang",
+    "total_ayah": "19 Ayat",
+    "type": "Mekah"
+  }]
+}

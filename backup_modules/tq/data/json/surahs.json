@@ -1,0 +1,83 @@
+{
+  "data": [{
+    "translationId": "Pembukaan",
+    "translationEn": "The Opening",
+    "asma": "\u0627\u0644\u0641\u0627\u062a\u062d\u0629",
+    "numberOfAyahs": 7,
+    "name": " Surat Al-Fatihah",
+    "number": 1,
+    "typeId": "mekah",
+    "typeEn": "Meccan",
+    "orderNumber": 5
+  }, {
+    "translationId": "Sapi Betina",
+    "translationEn": "The Cow",
+    "asma": "\u0627\u0644\u0628\u0642\u0631\u0629",
+    "numberOfAyahs": 286,
+    "name": " Surat Al-Baqarah",
+    "number": 2,
+    "typeId": "madinah",
+    "typeEn": "Medinan",
+    "orderNumber": 87
+  }, {
+    "translationId": "Orang-Orang Kafir",
+    "translationEn": "The Disbelievers",
+    "asma": "\u0627\u0644\u0643\u0627\u0641\u0631\u0648\u0646",
+    "numberOfAyahs": 6,
+    "name": " Surat Al-Kafirun",
+    "number": 109,
+    "typeId": "mekah",
+    "typeEn": "Meccan",
+    "orderNumber": 18
+  }, {
+    "translationId": "Pertolongan",
+    "translationEn": "Divine Support",
+    "asma": "\u0627\u0644\u0646\u0635\u0631",
+    "numberOfAyahs": 3,
+    "name": " Surat An-Nashr",
+    "number": 110,
+    "typeId": "madinah",
+    "typeEn": "Medinan",
+    "orderNumber": 114
+  }, {
+    "translationId": "Gejolak Api",
+    "translationEn": "The Palm Fibre",
+    "asma": "\u0627\u0644\u0645\u0633\u062f",
+    "numberOfAyahs": 5,
+    "name": " Surat Al-Lahab",
+    "number": 111,
+    "typeId": "mekah",
+    "typeEn": "Meccan",
+    "orderNumber": 6
+  }, {
+    "translationId": "Kemurnian Keesaan Allah",
+    "translationEn": "Sincerity",
+    "asma": "\u0627\u0644\u0625\u062e\u0644\u0627\u0635",
+    "numberOfAyahs": 4,
+    "name": " Surat Al-Ikhlas",
+    "number": 112,
+    "typeId": "mekah",
+    "typeEn": "Meccan",
+    "orderNumber": 22
+  }, {
+    "translationId": "Waktu Subuh",
+    "translationEn": "The Dawn",
+    "asma": "\u0627\u0644\u0641\u0644\u0642",
+    "numberOfAyahs": 5,
+    "name": " Surat Al-Falaq",
+    "number": 113,
+    "typeId": "mekah",
+    "typeEn": "Meccan",
+    "orderNumber": 20
+  }, {
+    "translationId": "Manusia",
+    "translationEn": "Mankind",
+    "asma": "\u0627\u0644\u0646\u0627\u0633",
+    "numberOfAyahs": 6,
+    "name": " Surat An-Naas",
+    "number": 114,
+    "typeId": "mekah",
+    "typeEn": "Meccan",
+    "orderNumber": 21
+  }]
+}

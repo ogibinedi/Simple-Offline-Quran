@@ -1,0 +1,39 @@
+{
+  "duas": [
+    {
+      "number": "1",
+      "arabicText": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّهِ",
+      "readText": "laa hawla wa laa quwwata 'illaa billaah.",
+      "indoText": "Seseorang yang mendengarkan adzan, hendaklah mengucapkan sebagaimana yang diucapkan oleh muadzin, kecuali dalam kalimat: Hayya ‘alash shalaah dan Hayya ‘alal falaah. Maka mengucapkan: ’Laa haula wala quwwata Illa billah’.\n",
+      "refs": "Referensi :\nAl-Bukhari 1/152, Muslim 1/288."
+    },
+    {
+      "number": "2",
+      "arabicText": "وَأَنَا أَشْـهَدُ أَنْ لَا إِلـهَ إِلاَّ اللّهُ وَحْـدَهُ لَا شَـرِيكَ لَـهُ وَأَنَّ محَمَّـداً عَبْـدُهُ وَرَسُـولُهُ، رَضِيـتُ بِاللّهِ رَبَّاً، وَبِمُحَمَّـدٍ رَسُـولاً، وَبِالإِسْلَامِ دِينـاً",
+      "readText": "wa 'anaa 'asy-hadu 'an laa 'ilaaha 'illallaahu wahdahu laa syariika lahu wa 'anna muhammadan 'abduhu wa rosuuluhu, rodhiitu billaahi robban, wa bi-muhammadin rosuulan wa bil'islaami diinan.",
+      "indoText": "Aku bersaksi, bahwa tiada Tuhan yang haq selain Allah, Yang Maha Esa, tidak ada sekutu bagi-Nya dan sesungguhnya Muhammad adalah hamba dan utusan-Nya. Aku rela Allah sebagai Tuhanku, Muhammad sebagai Rasul dan Islam sebagai agama (yang benar). (Dibaca setelah muadzin membaca syahadat).\n",
+      "refs": "Referensi :\nMuslim 1/290, Ibn Khuzaymah 1/220."
+    },
+    {
+      "number": "3",
+      "arabicText": "للّهُمّ صَلّ عَلَى مُحَمّدٍ وَآلِ مُحَمّدٍ",
+      "readText": "allahumma salli 'ala muhammad wa aali muhammad",
+      "indoText": "Membaca shalawat atas Nabi sesudah adzan.",
+      "refs": "Referensi :\nMuslim 1/288"
+    },
+    {
+      "number": "4",
+      "arabicText": "اللَّهُـمَّ رَبَّ هَذِهِ الدَّعْـوَةِ التَّـامَّةِ، وَالصَّلَاةِ القَـائِمَة، آتِ مُحَـمَّداً الوَسِيـلَةَ وَالْفَضِـيلَةَ، وَابْعَـثْهُ مَقَـامـاً مَحْـمُوداً الَّذِي وَعَـدْتَهُ، إِنَّـكَ لَا تُـخْلِفُ المِيـعَادِ",
+      "readText": "allaahumma robba haadzihid-da 'watit-taammati wassalaatil-qaa'imati, 'aati muhammadanil-wasiilata walfadhiilata, wab 'ats-hu maqaamam-mahmuudanil-ladzii wa'adtahu, ['innaka laa tukhliful-mii'aad]",
+      "indoText": "Ya Allah, Tuhan Pemilik panggilan yang sempurna (adzan) ini dan shalat (wajib) yang didirikan. Berilah Al-Wasilah (derajat di Surga, yang tidak akan diberikan selain kepada Nabi) dan fadhilah kepada Muhammad. Dan bangkitkanlah beliau sehingga bisa menempati maqam terpuji yang telah Engkau janjikan. Sesungguhnya Engkau tidak menyalahi janji.",
+      "refs": "Referensi :\nAl-Bukhari 1/152, Al-Bayhaqi 1/410"
+    },
+    {
+      "number": "5",
+      "arabicText": "يدعو لنفسه بين الأذان والإقامة فإن الدعاء حينئذ لا يردِ",
+      "readText": "",
+      "indoText": "Berdo’a untuk diri sendiri antara adzan dan iqamah, sebab do’ pada waktu itu dikabulkan.\n",
+      "refs": "Referensi :\nAt-Tirmizi, Abu Dawud, Ahmad, Irwa' al-Ghalil 1/262"
+    }
+  ]
+}

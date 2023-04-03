@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_search"
+        android:title="@string/label_ayah_filter"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom"
+        app:actionViewClass="android.widget.SearchView"/>
+    <item
+        android:id="@+id/action_goto"
+        android:title="@string/label_goto"
+        android:icon="@drawable/ic_go_to"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/label_page_help"
+        android:icon="@drawable/ic_help"
+        app:showAsAction="ifRoom"/>
+</menu>

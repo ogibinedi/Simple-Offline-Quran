@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "789497219227",
+    "project_id": "quran-id-dzikir-dan-doa",
+    "storage_bucket": "quran-id-dzikir-dan-doa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789497219227:android:ac67b197fa34b3f7e3de3e",
+        "android_client_info": {
+          "package_name": "com.obe.quranid2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789497219227-h38vrdq9drgfkde5u3n4kt52h3tj7mea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.obe.quranid2",
+            "certificate_hash": "83da1bc0806ee730b4187fa8476a7dd3d9fc2131"
+          }
+        },
+        {
+          "client_id": "789497219227-l5h5g8ileapm6rtu4cprh90gblcrga5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEiX6RhpnZlIzyG7QnS7FBnseBDGtiGwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789497219227-l5h5g8ileapm6rtu4cprh90gblcrga5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_dzikr">
+
+    <fragment
+        android:id="@+id/navigation_dzikr"
+        android:name="com.obe.quranid2.module.dzikir.DzikirFragment"
+        android:label="@string/title_reminder"
+        tools:layout="@layout/fragment_dzikir" />
+
+    <fragment
+        android:id="@+id/navigation_ruqya"
+        android:name="com.obe.quranid2.module.ruqya.RuqyaFragment"
+        android:label="@string/title_ruqya"
+        tools:layout="@layout/fragment_ruqya" >
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_option_surah"
+        android:name="com.obe.quranid2.module.surahpilihan.SurahPilihanFragment"
+        android:label="@string/title_option_surah"
+        tools:layout="@layout/fragment_surahpilihan" >
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_quran_juzamma"
+        android:name="com.obe.quranid2.module.juzamma.JuzammaFragment"
+        android:label="@string/title_quran_juzamma"
+        tools:layout="@layout/fragment_surahpilihan" >
+    </fragment>
+</navigation>

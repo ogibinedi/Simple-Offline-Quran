@@ -1,0 +1,40 @@
+{
+  "bab": [
+    {
+      "number": 1,
+      "title": "BAB ADAB",
+      "link_to": "sub_bab",
+      "path": "kelengkapan"
+    },
+    {
+      "number": 2,
+      "title": "BAB KEBAIKAN DAN SILATURAHMI",
+      "link_to": "sub_bab",
+      "path": "kelengkapan"
+    },
+    {
+      "number": 3,
+      "title": "BAB ZUHUD DAN WARA",
+      "link_to": "sub_bab",
+      "path": "kelengkapan"
+    },
+    {
+      "number": 4,
+      "title": "BAB PERINGATAN DAN UNTUK MENGHINDARI KEJELEKAN AKHLAK",
+      "link_to": "sub_bab",
+      "path": "kelengkapan"
+    },
+    {
+      "number": 5,
+      "title": "BAB MENDORONG UNTUK MELAKUKAN KEBAIKAN",
+      "link_to": "sub_bab",
+      "path": "kelengkapan"
+    },
+    {
+      "number": 6,
+      "title": "BAB DZIKIR DAN DO'A",
+      "link_to": "sub_bab",
+      "path": "kelengkapan"
+    }
+  ]
+}

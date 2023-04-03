@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_dzikr"
+        android:icon="@drawable/tasbi"
+        android:title="@string/title_reminder" />
+    <item
+        android:id="@+id/navigation_ruqya"
+        android:icon="@drawable/ic_waving_hand"
+        android:title="@string/title_ruqya" />
+    <item
+        android:id="@+id/navigation_option_surah"
+        android:icon="@drawable/reading_quran"
+        android:title="@string/title_option_surah" />
+    <item
+        android:id="@+id/navigation_quran_juzamma"
+        android:icon="@drawable/reading_quran"
+        android:title="@string/title_quran_juzamma" />
+</menu>

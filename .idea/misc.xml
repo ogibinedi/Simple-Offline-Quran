@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/activity_bab.xml" value="0.209375" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/activity_list_tq.xml" value="0.209375" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/activity_main.xml" value="0.10182370820668693" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/activity_note.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/activity_qibla.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/activity_subab.xml" value="0.1953125" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/bab_row.xml" value="0.209375" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/bottom_sheet.xml" value="0.2" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/fragment_dzikir.xml" value="0.1585144927536232" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/item_list_ah.xml" value="0.209375" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/item_title_list.xml" value="0.33" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/sub_bab_row.xml" value="0.33" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/layout/todo_row.xml" value="0.209375" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/menu/bottom_nav_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/menu/menu_ah.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/menu/menu_detail_activity.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/menu/menu_detail_tafsir.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Ogi/AndroidStudioProjects/QuranID2/app/src/main/res/menu/menu_main.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

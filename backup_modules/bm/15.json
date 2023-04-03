@@ -1,0 +1,16 @@
+{
+  "bab": [
+    {
+      "number": 1,
+      "title": "KITAB MEMERDEKAKAN BUDAK",
+      "link_to": "sub_bab",
+      "path": "memerdekakanbudak"
+    },
+    {
+      "number": 2,
+      "title": "BAB MUDABBAR, MUKATAB DAN UMMUL WALAD",
+      "link_to": "sub_bab",
+      "path": "memerdekakanbudak"
+    }
+  ]
+}
